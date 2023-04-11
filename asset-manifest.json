@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/TravelCard/static/js/main.65fd4e3a.js",
+    "static/js/787.24a18392.chunk.js": "/TravelCard/static/js/787.24a18392.chunk.js",
+    "index.html": "/TravelCard/index.html",
+    "main.65fd4e3a.js.map": "/TravelCard/static/js/main.65fd4e3a.js.map",
+    "787.24a18392.chunk.js.map": "/TravelCard/static/js/787.24a18392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.65fd4e3a.js"
+  ]
+}
