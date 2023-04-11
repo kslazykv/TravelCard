@@ -1,0 +1,52 @@
+{
+    "elements":[
+                {
+                    "title":"European Quest",
+                    "country":8,
+                    "days":21,
+                    "emissions":"810 kg",
+                    "stars":4.7,
+                    "background":"aurora.jpg"
+                },
+                {
+                    "title":"Autumn Roadtrip",
+                    "country":1,
+                    "days":14,
+                    "emissions":"3.56 t",
+                    "stars":2.9,
+                    "background":"desert.jpg"
+                },
+                {
+                    "title":"Diving adventure in Egypt",
+                    "country":1,
+                    "days":5,
+                    "emissions":"6.92 t",
+                    "stars":3.2,
+                    "background":"ocean.jpg"
+                },
+                {
+                    "title":"Asian Trip",
+                    "country":4,
+                    "days":11,
+                    "emissions":"810 kg",
+                    "stars":4.1,
+                    "background":"asia.jpg"
+                },
+                {
+                    "title":"American Dream With A Very Long Title",
+                    "country":1,
+                    "days":8,
+                    "emissions":"810 kg",
+                    "stars":3.9,
+                    "background":"road.jpg"
+                },
+                {
+                    "title":"Australian Experience",
+                    "country":1,
+                    "days":15,
+                    "emissions":"810 kg",
+                    "stars":4.2,
+                    "background":"australia.jpg"
+                }
+    ]
+}
