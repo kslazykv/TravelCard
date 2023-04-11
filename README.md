@@ -1,59 +1,68 @@
-This project was bootstrapped with
-[Create React App](https://github.com/facebook/create-react-app).
+<!-- PROJECT HEADER -->
+<br />
+<p align='center'>
+  <h3 align='center' style='font-size: 32px'>Travel Card</h3>
+  <p align='center'>
+    An elegant component displaying cards related to travel and exploration.
+    <br />
+    <br />
+    <a href='https://kslazykv.github.io/TravelCard/' style='font-size: 20px'>View Live Demo</a>
+  </p>
+</p>
 
-## Available Scripts
+#
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-In the project directory, you can run:
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [License](#license)
+* [Contact](#contact)
 
-### `npm start`
+#
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Runs the app in the development mode.<br /> Open
-[http://localhost:3000](http://localhost:3000) to view it in the browser.
+The project is designed to display information using a card-based layout, which provides a clean and organized way to present data. Depending on the contents of the JSON file, the project fetches the necessary information and displays it on the corresponding number of cards. These cards include important details such as the title, CO2 emission, number of stars, and other relevant information, making it easy for users to quickly grasp the key features of each item being displayed. Overall, this approach allows for a streamlined and user-friendly presentation of the information, enhancing the user's experience with the project.
 
-The page will reload if you make edits.<br /> You will also see any lint errors
-in the console.
+### Built With
+To create this application I used:
+* [React.js](https://reactjs.org)
+* [TypeScript.js](https://www.typescriptlang.org/)
+* [ChakraUI](https://chakra-ui.com/) 
 
-### `npm test`
+#
+<!-- GETTING STARTED -->
+## Getting Started
 
-Launches the test runner in the interactive watch mode.<br /> See the section
-about
-[running tests](https://facebook.github.io/create-react-app/docs/running-tests)
-for more information.
+In order to run my project:
 
-### `npm run build`
+Clone the repository using:
+* git clone https://github.com/kslazykv/TravelCard.git
 
-Builds the app for production to the `build` folder.<br /> It correctly bundles
-React in production mode and optimizes the build for the best performance.
+Install all required libraries and dependencies:
+* npm i
 
-The build is minified and the filenames include the hashes.<br /> Your app is
-ready to be deployed!
+Start the project using:
+* npm start
 
-See the section about
-[deployment](https://facebook.github.io/create-react-app/docs/deployment) for
-more information.
+Or just go directly to live demo:
+* <a href='https://kslazykv.github.io/TravelCard/' style='font-size: 20px'>View Live Demo</a>
 
-### `npm run eject`
+#
+<!-- LICENSE -->
+## License
+Distributed under the MIT Licence.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#
+<!-- CONTACT -->
+## Contact
 
-If you aren’t satisfied with the build tool and configuration choices, you can
-`eject` at any time. This command will remove the single build dependency from
-your project.
+Name: <span style='color: green'> Karolina Slazyk </span>
 
-Instead, it will copy all the configuration files and the transitive
-dependencies (webpack, Babel, ESLint, etc) right into your project so you have
-full control over them. All of the commands except `eject` will still work, but
-they will point to the copied scripts so you can tweak them. At this point
-you’re on your own.
+E-mail: kslazykv@gmail.com
 
-You don’t have to ever use `eject`. The curated feature set is suitable for
-small and middle deployments, and you shouldn’t feel obligated to use this
-feature. However we understand that this tool wouldn’t be useful if you couldn’t
-customize it when you are ready for it.
+GitHub: [Link](https://github.com/kslazykv/)
 
-## Learn More
-
-You can learn more in the
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+LinkedIn: [Link](https://www.linkedin.com/in/karolina-slazyk/)
